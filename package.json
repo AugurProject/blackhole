@@ -1,0 +1,9 @@
+{
+  "name": "blackhole",
+  "version": "1.0.0",
+  "description": "This does nothing, using it to blackhole scrypt",
+  "main": "index.js",
+  "repository": "git@github.com:AugurProject/blackhole.git",
+  "author": "Paul Gebheim <paul@augur.net>",
+  "license": "MIT"
+}
